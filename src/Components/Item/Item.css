@@ -1,0 +1,18 @@
+.item{
+    border: 2px solid red;
+    border-radius: 10px;
+   
+    padding: 10px 20px;
+
+}
+
+.items-btn{
+    background-color: crimson;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.items-btn:hover{
+    background-color: green;
+}
